@@ -1,9 +1,13 @@
 # python-analysis-netflix-viewing-activity
+
 A python analysis of my netflix viewing activity.
 
 ## Objective
 
+Clean, Transform, and analyze personal Netflix data.
+
 ## Data Collection
+
 Data Source: My own Netflix data obtained by simply requesting a copy of my personal information via Netflix Account.
 
 Data is stored in a csv file which is then loaded into a pandas dataframe.
@@ -11,9 +15,6 @@ Data is stored in a csv file which is then loaded into a pandas dataframe.
 ## Data Cleaning
 
 Examine the data, check for NA, and duplicates for the table ViewingActivity saved into pandas dataframe 'df'.
-```
-#insert code
-```
 
 Filter out other profiles since the analysis is based on my Netflix viewing activity.
 ```
@@ -76,7 +77,10 @@ shows['Hour'] = shows['Start Time'].dt.hour
 
 We have our final, clean datasets namely **shows** and **movies**, ready for analysis.
 
-
 ## Data Analysis
 
-## Data Visualization
+Key Takeaways:
+* Over 2000 minutes were spent watching Brooklyn Nine-Nine, making it the most watched show in the history.
+* Viewing activity is higher during the weekdays as compared to the weekends, especially between Tuesdays and Thursdays.
+* There's zero activity between 1 AM and 8 AM throughout the day.
+* The viewing activity peaks at 11 AM, 3 PM, 6 PM, and 7 PM.
