@@ -79,9 +79,9 @@ We have our final, clean datasets namely **shows** and **movies**, ready for ana
 
 ## Data Visualization
 
-![Image](Documents/projects/python-analysis-netflix-viewing-activity/plot1.png)
-![Image](Documents/projects/python-analysis-netflix-viewing-activity/plot2.png)
-![Image](Documents/projects/python-analysis-netflix-viewing-activity/plo3.png)
+![Image](plot1.png)
+![Image](plot2.png)
+![Image](plot3.png)
 
 ## Data Analysis
 
