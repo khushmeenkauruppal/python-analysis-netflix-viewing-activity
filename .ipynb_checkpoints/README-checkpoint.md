@@ -70,7 +70,7 @@ Now, add two new columns to each dataset i.e 'Weekday' and 'Hour' to answer ques
 * On which days of the week have I watched Netflix the most?
 * During which hours of the day do I most often start watching Netflix?
 ```
-shows['Weekday'] = shows['Start Time'].dt.weekday
+shows['Weekday'] = shows['Start Time'].dt.strftime('%a')
 shows['Hour'] = shows['Start Time'].dt.hour
 ```
 (repeat the above steps for 'movies' as well)
@@ -79,14 +79,6 @@ We have our final, clean datasets namely **shows** and **movies**, ready for ana
 
 ## Data Visualization
 
-![Image](plot1.png)
-![Image](plot2.png)
-![Image](plot3.png)
-
 ## Data Analysis
 
 Key Takeaways:
-* Over 2000 minutes were spent watching Brooklyn Nine-Nine, making it the most watched show in the history.
-* Viewing activity is higher during the weekdays as compared to the weekends, especially between Tuesdays and Thursdays.
-* There's zero activity between 1 AM and 8 AM throughout the day.
-* The viewing activity peaks at 11 AM, 3 PM, 6 PM, and 7 PM.
