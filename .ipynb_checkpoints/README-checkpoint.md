@@ -77,6 +77,12 @@ shows['Hour'] = shows['Start Time'].dt.hour
 
 We have our final, clean datasets namely **shows** and **movies**, ready for analysis.
 
+## Data Visualization
+
+![Image](Documents/projects/python-analysis-netflix-viewing-activity/plot1.png)
+![Image](Documents/projects/python-analysis-netflix-viewing-activity/plot2.png)
+![Image](Documents/projects/python-analysis-netflix-viewing-activity/plo3.png)
+
 ## Data Analysis
 
 Key Takeaways:
