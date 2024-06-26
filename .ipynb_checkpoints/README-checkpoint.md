@@ -123,3 +123,4 @@ Key Takeaways:
   
 * During which hours of the day do I most often start watching Netflix?
 
+The viewing activity peaks at 3PM, 6PM, and 7PM, with a total of 5+ hours over the last 5 weeks for each time of the day. 
