@@ -83,9 +83,7 @@ We have our final, clean datasets namely **shows** and **movies**, ready for ana
 
 1. Total Watch Time per Show over the span of **5 weeks**
 
-| Total |
-|---|
-| ![Image](plots/plot1.png) |
+![Image](plots/plot1.png)
    
 3. Watch Time per Day over the span of **5 weeks**
 
