@@ -101,7 +101,10 @@ Key Takeaways:
   The viewing activity is the most on Tuesdays, Wednesdays, and Thursdays as compared to other days of the week, where the watch time is almost half. One key point to observe here is that I watched Netflix more on the weekdays than weekends.
   
 * During which hours of the day do I most often start watching Netflix?
-    The hourly breakdown of the viewing activity points towards a couple of conclusions:
-        * There is zero activity between 1AM and 8AM, depicting a consistent sleep routine.
-        * 3PM, 6PM, and 7PM are the times when most of the viewing is recorded.
+  
+  The hourly breakdown of the viewing activity points towards a couple of conclusions:
+  
+    * There is zero activity between 1AM and 8AM, depicting a consistent sleep routine.
+  
+    * 3PM, 6PM, and 7PM are the times when most of the viewing is recorded.
   
